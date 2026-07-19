@@ -26,10 +26,13 @@ def bollinger(data, p=20):
     return round(m+2*s,2), round(m,2), round(m-2*s,2)
 
 code = sys.argv[1] if len(sys.argv) > 1 else "000520"
-if code.endswith(".SZ") or code.endswith(".SS"):
-    ycode = code
+# 清理可能的后缀
+raw_code = code.replace(".SZ","").replace(".SS","").replace(".SH","")
+# 沪市6开头，深市0/2/3开头
+if raw_code.startswith('6'):
+    ycode = raw_code + ".SS"
 else:
-    ycode = code + ".SZ"  # default Shenzhen
+    ycode = raw_code + ".SZ"
 
 t = yf.Ticker(ycode)
 info = t.info

@@ -1,0 +1,754 @@
+{
+  "date": "2026-07-19",
+  "generated_at": "2026-07-19 13:20:45",
+  "a_share": [
+    {
+      "quote": {
+        "code": "000001",
+        "name": "Ping An Bank Co., Ltd.",
+        "market": "a_share",
+        "price": 10.78,
+        "change_pct": 0.09284377,
+        "open_px": 10.85,
+        "high_px": 10.88,
+        "low_px": 10.72,
+        "pre_close": 10.77,
+        "volume": 107549901,
+        "amount": null,
+        "turnover": null,
+        "pe_ttm": 5.0849056,
+        "pb": 0.45076308,
+        "market_cap": 209195794432,
+        "timestamp": "2026-07-19 13:18"
+      },
+      "technical": {
+        "latest_price": 10.779999732971191,
+        "ma5": 10.72,
+        "ma20": 10.48,
+        "ma60": 10.65,
+        "rsi": 69.0,
+        "macd": {
+          "dif": 0.0264,
+          "dea": null,
+          "macd": null
+        },
+        "bollinger": {
+          "mid": 10.48,
+          "upper": 10.92,
+          "lower": 10.05
+        },
+        "signals": [
+          "MA5上穿MA20(多头)",
+          "MA20在MA60下方(中期偏空)",
+          "RSI=69.0 中性"
+        ]
+      }
+    },
+    {
+      "quote": {
+        "code": "000333",
+        "name": "Midea Group Co., Ltd.",
+        "market": "a_share",
+        "price": 82.71,
+        "change_pct": 1.1124645,
+        "open_px": 82.15,
+        "high_px": 83.45,
+        "low_px": 81.34,
+        "pre_close": 81.8,
+        "volume": 46637045,
+        "amount": null,
+        "turnover": null,
+        "pe_ttm": 14.21134,
+        "pb": 2.6702178,
+        "market_cap": 630265217024,
+        "timestamp": "2026-07-19 13:19"
+      },
+      "technical": {
+        "latest_price": 82.70999908447266,
+        "ma5": 81.75,
+        "ma20": 78.0,
+        "ma60": 77.37,
+        "rsi": 69.4,
+        "macd": {
+          "dif": 1.4275,
+          "dea": null,
+          "macd": null
+        },
+        "bollinger": {
+          "mid": 78.0,
+          "upper": 84.03,
+          "lower": 71.97
+        },
+        "signals": [
+          "MA5上穿MA20(多头)",
+          "MA20上穿MA60(中期多头)",
+          "RSI=69.4 中性"
+        ]
+      }
+    },
+    {
+      "quote": {
+        "code": "000858",
+        "name": "Wuliangye Yibin Co.,Ltd.",
+        "market": "a_share",
+        "price": 72.76,
+        "change_pct": -1.5426242,
+        "open_px": 73.33,
+        "high_px": 75.06,
+        "low_px": 72.35,
+        "pre_close": 73.9,
+        "volume": 42955717,
+        "amount": null,
+        "turnover": null,
+        "pe_ttm": 22.387693,
+        "pb": 2.2065203,
+        "market_cap": 282425786368,
+        "timestamp": "2026-07-19 13:19"
+      },
+      "technical": {
+        "latest_price": 72.76000213623047,
+        "ma5": 72.35,
+        "ma20": 71.4,
+        "ma60": 79.98,
+        "rsi": 54.7,
+        "macd": {
+          "dif": -1.5232,
+          "dea": null,
+          "macd": null
+        },
+        "bollinger": {
+          "mid": 71.4,
+          "upper": 74.36,
+          "lower": 68.44
+        },
+        "signals": [
+          "MA5上穿MA20(多头)",
+          "MA20在MA60下方(中期偏空)",
+          "RSI=54.7 中性"
+        ]
+      }
+    },
+    {
+      "quote": {
+        "code": "002415",
+        "name": "Hangzhou Hikvision Digital Technology Co., Ltd.",
+        "market": "a_share",
+        "price": 33.15,
+        "change_pct": -2.8428998,
+        "open_px": 33.77,
+        "high_px": 34.5,
+        "low_px": 32.82,
+        "pre_close": 34.12,
+        "volume": 97321943,
+        "amount": null,
+        "turnover": null,
+        "pe_ttm": 20.337425,
+        "pb": 3.5299757,
+        "market_cap": 303815524352,
+        "timestamp": "2026-07-19 13:19"
+      },
+      "technical": {
+        "latest_price": 33.150001525878906,
+        "ma5": 33.63,
+        "ma20": 33.74,
+        "ma60": 32.76,
+        "rsi": 51.0,
+        "macd": {
+          "dif": 0.3815,
+          "dea": null,
+          "macd": null
+        },
+        "bollinger": {
+          "mid": 33.74,
+          "upper": 35.33,
+          "lower": 32.16
+        },
+        "signals": [
+          "MA5在MA20下方(偏空)",
+          "MA20上穿MA60(中期多头)",
+          "RSI=51.0 中性"
+        ]
+      }
+    },
+    {
+      "quote": {
+        "code": "002594",
+        "name": "BYD Company Limited",
+        "market": "a_share",
+        "price": 93.47,
+        "change_pct": -0.711704,
+        "open_px": 91.74,
+        "high_px": 95.95,
+        "low_px": 91.9,
+        "pre_close": 94.14,
+        "volume": 69184522,
+        "amount": null,
+        "turnover": null,
+        "pe_ttm": 31.26087,
+        "pb": 3.6616132,
+        "market_cap": 852184465408,
+        "timestamp": "2026-07-19 13:19"
+      },
+      "technical": {
+        "latest_price": 93.47000122070312,
+        "ma5": 91.31,
+        "ma20": 86.17,
+        "ma60": 92.77,
+        "rsi": 75.2,
+        "macd": {
+          "dif": 0.5004,
+          "dea": null,
+          "macd": null
+        },
+        "bollinger": {
+          "mid": 86.17,
+          "upper": 95.14,
+          "lower": 77.2
+        },
+        "signals": [
+          "MA5上穿MA20(多头)",
+          "MA20在MA60下方(中期偏空)",
+          "RSI=75.2 超买"
+        ]
+      }
+    },
+    {
+      "quote": {
+        "code": "300750",
+        "name": "Contemporary Amperex Technology Co., Limited",
+        "market": "a_share",
+        "price": 360.0,
+        "change_pct": -1.6930672,
+        "open_px": 369.48,
+        "high_px": 375.24,
+        "low_px": 362.5,
+        "pre_close": 366.2,
+        "volume": 51245336,
+        "amount": null,
+        "turnover": null,
+        "pe_ttm": 20.536222,
+        "pb": 4.5625644,
+        "market_cap": 1665594163200,
+        "timestamp": "2026-07-19 13:19"
+      },
+      "technical": {
+        "latest_price": 360.0,
+        "ma5": 364.45,
+        "ma20": 378.29,
+        "ma60": 405.92,
+        "rsi": 35.4,
+        "macd": {
+          "dif": -11.3565,
+          "dea": null,
+          "macd": null
+        },
+        "bollinger": {
+          "mid": 378.29,
+          "upper": 409.19,
+          "lower": 347.39
+        },
+        "signals": [
+          "MA5在MA20下方(偏空)",
+          "MA20在MA60下方(中期偏空)",
+          "RSI=35.4 中性"
+        ]
+      }
+    },
+    {
+      "quote": {
+        "code": "600036",
+        "name": "China Merchants Bank Co., Ltd.",
+        "market": "a_share",
+        "price": 38.02,
+        "change_pct": 0.92912745,
+        "open_px": 37.76,
+        "high_px": 38.2,
+        "low_px": 37.68,
+        "pre_close": 37.67,
+        "volume": 115858449,
+        "amount": null,
+        "turnover": null,
+        "pe_ttm": 6.658494,
+        "pb": 0.8467706,
+        "market_cap": 958858592256,
+        "timestamp": "2026-07-19 13:19"
+      },
+      "technical": {
+        "latest_price": 38.02000045776367,
+        "ma5": 37.58,
+        "ma20": 36.35,
+        "ma60": 36.92,
+        "rsi": 72.2,
+        "macd": {
+          "dif": 0.2449,
+          "dea": null,
+          "macd": null
+        },
+        "bollinger": {
+          "mid": 36.35,
+          "upper": 38.3,
+          "lower": 34.41
+        },
+        "signals": [
+          "MA5上穿MA20(多头)",
+          "MA20在MA60下方(中期偏空)",
+          "RSI=72.2 超买"
+        ]
+      }
+    },
+    {
+      "quote": {
+        "code": "600519",
+        "name": "Kweichow Moutai Co., Ltd.",
+        "market": "a_share",
+        "price": 1253.0,
+        "change_pct": -0.47577745,
+        "open_px": 1269.01,
+        "high_px": 1269.33,
+        "low_px": 1238.98,
+        "pre_close": 1258.99,
+        "volume": 5841730,
+        "amount": null,
+        "turnover": null,
+        "pe_ttm": 18.976223,
+        "pb": 5.787823,
+        "market_cap": 1566352343040,
+        "timestamp": "2026-07-19 13:19"
+      },
+      "technical": {
+        "latest_price": 1253.0,
+        "ma5": 1237.78,
+        "ma20": 1204.07,
+        "ma60": 1263.65,
+        "rsi": 66.4,
+        "macd": {
+          "dif": -0.8761,
+          "dea": null,
+          "macd": null
+        },
+        "bollinger": {
+          "mid": 1204.07,
+          "upper": 1252.21,
+          "lower": 1155.92
+        },
+        "signals": [
+          "MA5上穿MA20(多头)",
+          "MA20在MA60下方(中期偏空)",
+          "RSI=66.4 中性",
+          "触及布林上轨"
+        ]
+      }
+    },
+    {
+      "quote": {
+        "code": "600900",
+        "name": "China Yangtze Power Co., Ltd.",
+        "market": "a_share",
+        "price": 27.99,
+        "change_pct": 1.9672093,
+        "open_px": 27.61,
+        "high_px": 28.19,
+        "low_px": 27.35,
+        "pre_close": 27.45,
+        "volume": 242860129,
+        "amount": null,
+        "turnover": null,
+        "pe_ttm": 18.91216,
+        "pb": 3.0051534,
+        "market_cap": 684865421312,
+        "timestamp": "2026-07-19 13:20"
+      },
+      "technical": {
+        "latest_price": 27.989999771118164,
+        "ma5": 27.74,
+        "ma20": 26.64,
+        "ma60": 26.51,
+        "rsi": 76.5,
+        "macd": {
+          "dif": 0.373,
+          "dea": null,
+          "macd": null
+        },
+        "bollinger": {
+          "mid": 26.64,
+          "upper": 28.18,
+          "lower": 25.1
+        },
+        "signals": [
+          "MA5上穿MA20(多头)",
+          "MA20上穿MA60(中期多头)",
+          "RSI=76.5 超买",
+          "成交量放大 1.8x"
+        ]
+      }
+    },
+    {
+      "quote": {
+        "code": "601318",
+        "name": "Ping An Insurance (Group) Company of China, Ltd.",
+        "market": "a_share",
+        "price": 50.7,
+        "change_pct": 0.059211753,
+        "open_px": 50.66,
+        "high_px": 51.45,
+        "low_px": 50.58,
+        "pre_close": 50.67,
+        "volume": 107232650,
+        "amount": null,
+        "turnover": null,
+        "pe_ttm": 6.9931035,
+        "pb": 0.90155774,
+        "market_cap": 918057451520,
+        "timestamp": "2026-07-19 13:20"
+      },
+      "technical": {
+        "latest_price": 50.70000076293945,
+        "ma5": 50.29,
+        "ma20": 49.56,
+        "ma60": 52.5,
+        "rsi": 64.3,
+        "macd": {
+          "dif": -0.4285,
+          "dea": null,
+          "macd": null
+        },
+        "bollinger": {
+          "mid": 49.56,
+          "upper": 51.66,
+          "lower": 47.47
+        },
+        "signals": [
+          "MA5上穿MA20(多头)",
+          "MA20在MA60下方(中期偏空)",
+          "RSI=64.3 中性"
+        ]
+      }
+    },
+    {
+      "quote": {
+        "code": "000520",
+        "name": "Phoenix Shipping (Wuhan) Co., Ltd.",
+        "market": "a_share",
+        "price": 3.78,
+        "change_pct": -4.303799,
+        "open_px": 4.0,
+        "high_px": 4.01,
+        "low_px": 3.7,
+        "pre_close": 3.95,
+        "volume": 37833690,
+        "amount": null,
+        "turnover": null,
+        "pe_ttm": null,
+        "pb": 9.086538,
+        "market_cap": 3825675520,
+        "timestamp": "2026-07-19 13:20"
+      },
+      "technical": {
+        "latest_price": 3.7799999713897705,
+        "ma5": 3.98,
+        "ma20": 4.15,
+        "ma60": 4.09,
+        "rsi": 53.2,
+        "macd": {
+          "dif": -0.0405,
+          "dea": null,
+          "macd": null
+        },
+        "bollinger": {
+          "mid": 4.15,
+          "upper": 4.75,
+          "lower": 3.54
+        },
+        "signals": [
+          "MA5在MA20下方(偏空)",
+          "MA20上穿MA60(中期多头)",
+          "RSI=53.2 中性"
+        ]
+      }
+    }
+  ],
+  "hk_stock": [
+    {
+      "quote": {
+        "code": "0700.HK",
+        "name": "Tencent Holdings Limited",
+        "market": "hk_stock",
+        "price": 461.6,
+        "change_pct": -4.628098,
+        "open_px": 488.8,
+        "high_px": 488.8,
+        "low_px": 458.0,
+        "pre_close": 484.0,
+        "volume": 36238357,
+        "amount": null,
+        "turnover": 16727625591.2,
+        "pe_ttm": 16.556673,
+        "pb": 3.1931298,
+        "market_cap": 4155151745024,
+        "timestamp": "2026-07-19 13:20"
+      }
+    },
+    {
+      "quote": {
+        "code": "9988.HK",
+        "name": "Alibaba Group Holding Limited",
+        "market": "hk_stock",
+        "price": 112.6,
+        "change_pct": -3.6783602,
+        "open_px": 116.3,
+        "high_px": 118.0,
+        "low_px": 110.7,
+        "pre_close": 116.9,
+        "volume": 125644330,
+        "amount": null,
+        "turnover": 14147551558.0,
+        "pe_ttm": 17.760252,
+        "pb": 1.7030141,
+        "market_cap": 2159102394368,
+        "timestamp": "2026-07-19 13:20"
+      }
+    },
+    {
+      "quote": {
+        "code": "9999.HK",
+        "name": "NetEase, Inc.",
+        "market": "hk_stock",
+        "price": 202.8,
+        "change_pct": -0.8797669,
+        "open_px": 203.4,
+        "high_px": 207.0,
+        "low_px": 201.4,
+        "pre_close": 204.6,
+        "volume": 12035166,
+        "amount": null,
+        "turnover": 2440731664.8,
+        "pe_ttm": 16.609337,
+        "pb": 3.400198,
+        "market_cap": 649213706240,
+        "timestamp": "2026-07-19 13:20"
+      }
+    },
+    {
+      "quote": {
+        "code": "9618.HK",
+        "name": "JD.com, Inc.",
+        "market": "hk_stock",
+        "price": 116.3,
+        "change_pct": -0.4280822,
+        "open_px": 116.9,
+        "high_px": 119.4,
+        "low_px": 115.6,
+        "pre_close": 116.8,
+        "volume": 9444442,
+        "amount": null,
+        "turnover": 1098388604.6,
+        "pe_ttm": 21.779026,
+        "pb": 1.2725365,
+        "market_cap": 317689888768,
+        "timestamp": "2026-07-19 13:20"
+      }
+    },
+    {
+      "quote": {
+        "code": "1810.HK",
+        "name": "Xiaomi Corporation",
+        "market": "hk_stock",
+        "price": 26.88,
+        "change_pct": -2.2545485,
+        "open_px": 28.08,
+        "high_px": 28.22,
+        "low_px": 26.36,
+        "pre_close": 27.5,
+        "volume": 279985322,
+        "amount": null,
+        "turnover": 7526005455.36,
+        "pe_ttm": 14.933333,
+        "pb": 2.25098,
+        "market_cap": 689334386688,
+        "timestamp": "2026-07-19 13:20"
+      }
+    },
+    {
+      "quote": {
+        "code": "0360.HK",
+        "name": "New Focus Auto Tech Holdings Limited",
+        "market": "hk_stock",
+        "price": 0.035,
+        "change_pct": 0.0,
+        "open_px": 0.036,
+        "high_px": 0.037,
+        "low_px": 0.035,
+        "pre_close": 0.035,
+        "volume": 1704000,
+        "amount": null,
+        "turnover": 59640.00000000001,
+        "pe_ttm": null,
+        "pb": 1.5119375,
+        "market_cap": 602593216,
+        "timestamp": "2026-07-19 13:20"
+      }
+    }
+  ],
+  "us_stock": [
+    {
+      "quote": {
+        "code": "AAPL",
+        "name": "Apple Inc.",
+        "market": "us_stock",
+        "price": 333.74,
+        "change_pct": 0.144026,
+        "open_px": 331.98,
+        "high_px": 334.98,
+        "low_px": 329.0006,
+        "pre_close": 333.26,
+        "volume": 63325386,
+        "amount": 21134214323.64,
+        "turnover": null,
+        "pe_ttm": 40.502426,
+        "pb": 45.969696,
+        "market_cap": 4901757779968,
+        "timestamp": "2026-07-19 13:20"
+      }
+    },
+    {
+      "quote": {
+        "code": "MSFT",
+        "name": "Microsoft Corporation",
+        "market": "us_stock",
+        "price": 393.82,
+        "change_pct": -1.81501,
+        "open_px": 394.855,
+        "high_px": 398.39,
+        "low_px": 389.39,
+        "pre_close": 401.1,
+        "volume": 32987687,
+        "amount": 12991210894.34,
+        "turnover": null,
+        "pe_ttm": 23.469606,
+        "pb": 7.0606165,
+        "market_cap": 2925466222592,
+        "timestamp": "2026-07-19 13:20"
+      }
+    },
+    {
+      "quote": {
+        "code": "GOOGL",
+        "name": "Alphabet Inc.",
+        "market": "us_stock",
+        "price": 346.77,
+        "change_pct": -2.1695,
+        "open_px": 345.995,
+        "high_px": 348.52,
+        "low_px": 341.36,
+        "pre_close": 354.46,
+        "volume": 29853865,
+        "amount": 10352424766.05,
+        "turnover": null,
+        "pe_ttm": 26.4508,
+        "pb": 8.775877,
+        "market_cap": 4231485980672,
+        "timestamp": "2026-07-19 13:20"
+      }
+    },
+    {
+      "quote": {
+        "code": "AMZN",
+        "name": "Amazon.com, Inc.",
+        "market": "us_stock",
+        "price": 247.23,
+        "change_pct": -1.06447,
+        "open_px": 244.7,
+        "high_px": 250.24,
+        "low_px": 243.59,
+        "pre_close": 249.89,
+        "volume": 40074717,
+        "amount": 9907672283.91,
+        "turnover": null,
+        "pe_ttm": 29.572968,
+        "pb": 6.016353,
+        "market_cap": 2659480240128,
+        "timestamp": "2026-07-19 13:20"
+      }
+    },
+    {
+      "quote": {
+        "code": "TSLA",
+        "name": "Tesla, Inc.",
+        "market": "us_stock",
+        "price": 380.84,
+        "change_pct": -2.61341,
+        "open_px": 381.78,
+        "high_px": 385.6899,
+        "low_px": 377.22,
+        "pre_close": 391.06,
+        "volume": 29958144,
+        "amount": 11409259560.96,
+        "turnover": null,
+        "pe_ttm": 346.21817,
+        "pb": 17.392338,
+        "market_cap": 1430329884672,
+        "timestamp": "2026-07-19 13:20"
+      }
+    },
+    {
+      "quote": {
+        "code": "NVDA",
+        "name": "NVIDIA Corporation",
+        "market": "us_stock",
+        "price": 202.81,
+        "change_pct": -2.21311,
+        "open_px": 202.4,
+        "high_px": 206.645,
+        "low_px": 197.97,
+        "pre_close": 207.4,
+        "volume": 138213660,
+        "amount": 28031112384.6,
+        "turnover": null,
+        "pe_ttm": 31.058191,
+        "pb": 25.131351,
+        "market_cap": 4912260841472,
+        "timestamp": "2026-07-19 13:20"
+      }
+    },
+    {
+      "quote": {
+        "code": "META",
+        "name": "Meta Platforms, Inc.",
+        "market": "us_stock",
+        "price": 646.01,
+        "change_pct": -2.78839,
+        "open_px": 647.7,
+        "high_px": 652.2,
+        "low_px": 626.0,
+        "pre_close": 664.54,
+        "volume": 20966389,
+        "amount": 13544496957.89,
+        "turnover": null,
+        "pe_ttm": 23.474201,
+        "pb": 6.7283597,
+        "market_cap": 1639846903808,
+        "timestamp": "2026-07-19 13:20"
+      }
+    },
+    {
+      "quote": {
+        "code": "BABA",
+        "name": "Alibaba Group Holding Limited",
+        "market": "us_stock",
+        "price": 114.97,
+        "change_pct": -2.14486,
+        "open_px": 114.65,
+        "high_px": 115.93,
+        "low_px": 113.94,
+        "pre_close": 117.49,
+        "volume": 10409292,
+        "amount": 1196756301.24,
+        "turnover": null,
+        "pe_ttm": 17.769707,
+        "pb": 1.7043724,
+        "market_cap": 275568394240,
+        "timestamp": "2026-07-19 13:20"
+      }
+    }
+  ]
+}
