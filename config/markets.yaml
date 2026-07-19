@@ -1,0 +1,61 @@
+# 市场配置
+
+markets:
+  a_share:
+    name: "A股"
+    timezone: "Asia/Shanghai"
+    trading_hours:
+      open: "09:30"
+      close: "15:00"
+    holidays: "cny"  # 跟随中国法定节假日
+    data_source: "akshare"
+    indices:
+      - code: "sh000001"
+        name: "上证指数"
+      - code: "sz399001"
+        name: "深证成指"
+      - code: "sh000688"
+        name: "科创50"
+      - code: "sz399006"
+        name: "创业板指"
+
+  hk_stock:
+    name: "港股"
+    timezone: "Asia/Hong_Kong"
+    trading_hours:
+      open: "09:30"
+      close: "16:00"
+    data_source: "yfinance"
+    indices:
+      - code: "^HSI"
+        name: "恒生指数"
+      - code: "^HSTECH"
+        name: "恒生科技指数"
+
+  us_stock:
+    name: "美股"
+    timezone: "America/New_York"
+    trading_hours:
+      open: "09:30"
+      close: "16:00"
+    data_source: "yfinance"
+    indices:
+      - code: "^GSPC"
+        name: "标普500"
+      - code: "^DJI"
+        name: "道琼斯"
+      - code: "^IXIC"
+        name: "纳斯达克"
+
+# LLM 配置
+llm:
+  provider: "openai"  # 按部署环境配置
+  model: "gpt-4o"
+  temperature: 0.3
+  max_tokens: 2048
+
+# 推送配置
+push:
+  feishu:
+    enabled: true
+    target: "user:ou_0d2b93fe00aff1b01b539b24d103b5cc"
